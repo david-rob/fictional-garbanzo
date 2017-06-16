@@ -1,2 +1,2 @@
 # fictional-garbanzo
-Testing Deploying to Docker Through GithHub
+Testing Deploying to Docker Through GitHub
